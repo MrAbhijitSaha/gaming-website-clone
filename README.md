@@ -34,5 +34,19 @@ This project replicates the look and feel of a modern gaming-themed site with sm
 
 ---
 
-## 📁 Project Structure
+
+- `index.html` — Main landing page  
+- `css/styles.css` — Stylesheet  
+- `js/script.js` — JavaScript for UI interactions  
+- `images/` — All image assets  
+
+---
+
+## 🧰 Setup / Usage
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/MrAbhijitSaha/gaming-website-clone.git
+   cd gaming-website-clone
+
 
