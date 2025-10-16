@@ -19,18 +19,18 @@ This project replicates the look and feel of a modern gaming-themed site with sm
 
 ## 🚀 Live Demo
 
-👉 [Live Demo](#) *(Add your deployed link here — e.g. GitHub Pages or Netlify)*
+👉 [Live Demo](#) *([Add your deployed link here — e.g. GitHub Pages or Netlify](https://gameboiz.netlify.app/))*
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Layer        | Technology             |
-|-------------|--------------------------|
-| Markup      | HTML5                   |
-| Styling     | CSS3, Flexbox, Media Queries |
-| Scripting   | Vanilla JavaScript      |
-| Assets      | Images, icons           |
+| Layer        | Technology                        |
+|-------------|-------------------------------------|
+| Markup      | HTML5                             |
+| Styling     | CSS3, **Bootstrap 5**, Flexbox, Media Queries |
+| Scripting   | Vanilla JavaScript                |
+| Assets      | Images, Icons                     |
 
 ---
 
