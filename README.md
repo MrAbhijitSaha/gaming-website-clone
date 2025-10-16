@@ -19,7 +19,7 @@ This project replicates the look and feel of a modern gaming-themed site with sm
 
 ## 🚀 Live Demo
 
-👉 [Live Demo](#) *([Add your deployed link here — e.g. GitHub Pages or Netlify](https://gameboiz.netlify.app/))*
+👉 [Live Demo](#) *(https://gameboiz.netlify.app/)*
 
 ---
 
